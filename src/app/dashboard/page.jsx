@@ -1,9 +1,10 @@
+import Title from '@/Componennts/Title';
 import React from 'react';
 
 const DashBoard = () => {
     return (
         <div>
-            <h1>Welcom to DashBoard here</h1>
+           <Title>Welcomt To DashBoard 🐳</Title>
         </div>
     );
 };
