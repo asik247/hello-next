@@ -1,10 +1,11 @@
-import Title from '@/Componennts/Title';
+
+import Banner from '@/Componennts/Banner';
 import React from 'react';
 
 const page = () => {
     return (
         <div>
-            <Title>🏘️ WelCome To Dev Story</Title>
+            <Banner></Banner>
         </div>
     );
 };
